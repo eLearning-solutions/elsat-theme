@@ -22,8 +22,8 @@ config = {
         "FOOTER_LEGAL_LINKS": [
             {"title": "Terms of service", "url": "/tos"},
             {
-                "title": "Indigo theme for Open edX",
-                "url": "https://github.com/overhangio/tutor-indigo",
+                "title": "Indigo theme for ELSAT Hub",
+                "url": "https://github.com/eLearning-solutions/elsat-theme",
             },
         ],
     },
