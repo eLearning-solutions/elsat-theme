@@ -22,8 +22,8 @@ config = {
         "FOOTER_LEGAL_LINKS": [
             {"title": "Terms of service", "url": "/tos"},
             {
-                "title": "Indigo theme for ELSAT Hub",
-                "url": "https://github.com/eLearning-solutions/elsat-theme",
+                "title": "ELSAT Hub",
+                "url": "https://elsat.elearningsolutions.co.ke/",
             },
         ],
     },

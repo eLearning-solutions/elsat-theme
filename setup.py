@@ -35,7 +35,7 @@ setup(
     },
     license="AGPLv3",
     author="ELSAT",
-    description="Indigo theme plugin for ELSAT Hub",
+    description="ELSAT Hub",
     long_description=load_readme(),
     packages=find_packages(exclude=["tests*"]),
     include_package_data=True,
